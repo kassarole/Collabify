@@ -1,0 +1,7 @@
+.cache*
+config.ini
+*.json
+test.py
+app.py
+.flask_session/
+__pycache__/
